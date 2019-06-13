@@ -106,8 +106,13 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" scoped>
 .hello {
+  // font-size: 20px;
+  h1 {
+    font-size: 18px;
+  }
   h3 {
     margin: 40px 0 0;
+    font-size: 20px;
   }
 
   ul {
